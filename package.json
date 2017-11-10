@@ -1,0 +1,19 @@
+{
+  "name": "auto-script-prompter",
+  "version": "1.0.0",
+  "description": "An script command initiator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semagarcia/auto-script-prompter.git"
+  },
+  "author": "Sema García <jmanuelgarciagarcia.gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/semagarcia/auto-script-prompter/issues"
+  },
+  "homepage": "https://github.com/semagarcia/auto-script-prompter#readme"
+}
